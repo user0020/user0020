@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey, I'm **Fikret H. Gungor**, a mathematics enthusiast, programmer and a radio amateur.\
+I primarily focus on number theory and group theory, though I also occasionally program for fun or when needed.
 
-<!--
-**user0020/user0020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Find me here:
+- ResearchGate: [My profile](https://www.researchgate.net/profile/F-Guengoer)
+- SoundCloud: [Neural Collapse](https://soundcloud.com/neuralcollapse)
 
-Here are some ideas to get you started:
+I lost access to my old GitHub account [@855309](https://github.com/855309) due to 2FA issues, so this is my new profile.\
+For my previous projects, you can check my old account or contact me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Feel free to reach out:
+- E-mail: [855309@protonmail.com](mailto:855309@protonmail.com)
+- Discord: **85530**
+- Matrix: **@user0020:matrix.org**
