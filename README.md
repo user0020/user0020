@@ -3,7 +3,7 @@ I primarily focus on number theory and group theory, though I also occasionally 
 
 ### Find me here:
 - ResearchGate: [My profile](https://www.researchgate.net/profile/F-Guengoer)
-- SoundCloud: [Neural Collapse](https://soundcloud.com/neuralcollapse)
+- SoundCloud: [My music](https://soundcloud.com/neuralcollapse)
 
 I lost access to my old GitHub account [@855309](https://github.com/855309) due to 2FA issues, so this is my new profile.\
 For my previous projects, you can check my old account or contact me.
